@@ -20,9 +20,6 @@ Feel free to browse around and I`d glad to connect with you!
 ---
 ## 📫 How to reach me:
 
-
-- <a href="http://www.alejandrotech.com/"><img src="https://github.com/arpm92/arpm92/blob/main/ap_logo-removebg-preview.png" width="70"/></a>
-
 - <a href="https://www.linkedin.com/in/alejandro-perez-19920930/"><img src="https://github.com/arpm92/arpm92/blob/main/LinkedInIcon.png" width="40"/></a>
 
 - <a href="http://www.github.com/arpm92/"><img src="https://github.com/arpm92/arpm92/blob/main/githubicon.png" width="40"/></a>
